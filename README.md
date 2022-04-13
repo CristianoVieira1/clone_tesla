@@ -1,16 +1,8 @@
 <p align="center">
-  <img src="src\assets\img\transparentBanner.png" width="50%"/>
+  <img src="src\assets\transparentBanner.png" width="50%"/>
 </p>
 
 <br>
-
-<div align="center" style="margin: 20px; text-align: center">
-
-  [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-  ![GitHub last commit](https://img.shields.io/github/last-commit/leoronne/tesla-homepage-ui-clone?color=green&style=flat-square)
-  ![GitHub top language](https://img.shields.io/github/languages/top/leoronne/tesla-homepage-ui-clone?style=flat-square)
-
-</div>
 
 ##
 
@@ -19,14 +11,13 @@
   <a href="#techs-rocket">Techs</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#installation-wrench">Installation</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#start-on">Start</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#contributing-">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#license-memo">License</a>
 </p>
 
 ##
 
 <p align="center">
-  <img src="src\assets\img\banner.png"/>
+  <img src="src\assets\banner.png"/>
 </p>
 
 <br>
@@ -35,20 +26,17 @@
 
 This repo contains an UI clone from Tesla homepage.
 
-<br>
-
-Deployed [here](https://tesla.ui-clone.ronne.dev/).
 
 <br>
 
 <p align="center">
-  <img src="src\assets\img\tesla-1.gif"/>
+  <img src="src\assets\tesla-1.gif"/>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="src\assets\img\tesla-2.gif"/>
+  <img src="src\assets\tesla-2.gif"/>
 </p>
 
 <br>
